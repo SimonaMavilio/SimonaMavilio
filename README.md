@@ -13,7 +13,7 @@
 ### 🎨 About Me
 - 🌍 From **Switzerland**
 - 💼 Full Stack Developer with a passion for design systems and user experience
-- 🎓 Co-created Kolibri Sync, a Figma Plugin developed as part of my bachelor thesis with another student.
+- 🎓 Co-created [Kolibri Sync](https://www.figma.com/community/plugin/1540727526360542781/kolibri-sync), a Figma Plugin developed as part of my bachelor thesis with another student.
 - 👩‍🏫 Taught the course [164 Datenbanken erstellen und Daten einfügen](https://www.modulbaukasten.ch/module/164/1/de-DE?title=Datenbanken-erstellen-und-Daten-einf%C3%BCgen) at CsBe Computerschule Bern AG, introducing beginners to database concepts using **SQLite** and **DBeaver**
 - 🌟 Always eager to learn and build tools that make designers’ and developers’ lives easier
 
